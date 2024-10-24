@@ -1,10 +1,12 @@
 """
-`adafruit_adxl355`
+`adxl355`
+MIT Licence
 ====================================================
 
 A driver for the ADXL355 3-axis accelerometer
 
 * Author(s): Hugh Birchall, based on original ADXL345 and ADXL355 drivers by Adafruit and oaslananka.
+
 """
 
 from struct import unpack
